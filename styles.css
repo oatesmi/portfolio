@@ -1,5 +1,4 @@
 body {
-  width: 980px;
   margin: auto;
   font-family: sans-serif;
 }
@@ -61,7 +60,7 @@ nav {
 }
 
 main {
-  max-width: 900px;
+  max-width: 90%;
 }
 
 #content {
